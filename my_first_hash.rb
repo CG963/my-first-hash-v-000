@@ -29,10 +29,10 @@ def adding
                   "oil paintings" => 3
                  }
 
-shipping_manifest["muskets"] => 2 
+shipping_manifest["muskets"] = 2 
 
 
-shipping_manifest["gunpowder"] => 4
+shipping_manifest["gunpowder"] = 4
 
 return shipping_manifest
 end
