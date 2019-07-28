@@ -1,5 +1,5 @@
 def my_hash
-  my_hash, equal to a hash with key/value pairs of your choice.
+  my_hash =
 
   
 end
